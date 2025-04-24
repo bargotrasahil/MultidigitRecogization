@@ -6,3 +6,4 @@ pandas
 matplotlib
 streamlit_drawable_canvas
 plotly
+scipy
