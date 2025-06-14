@@ -30,8 +30,5 @@ def show_sidebar(mode):
     
     st.sidebar.title("About Developer 📢")
     st.sidebar.write("""
-    👩‍💻 **Komalpreet Kaur**  
-    🔗 [GitHub](https://github.com/komalpreetkaurr)  
-    📧 Email: [kpreetk.879@gmail.com](mailto:kpreetk.879@gmail.com)  
-    🌍 Location: India  
+    👩‍💻 **Sahil Bargotra and Aminder Singh**   
     """)
